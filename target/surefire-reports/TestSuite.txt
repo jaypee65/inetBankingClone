@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.218 s <<< FAILURE! - in TestSuite
+com.inetBankingClone.testCase.TC_LoginTest_001.loginTest  Time elapsed: 8.456 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0-beta-4', revision: '29f46d02dd'
+System info: host: 'NBK-0185-SWCPL', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c04fcf92bd43fb9f1f323de9ea4c885a, findElement {using=name, value=uid}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\JEYAPR~1.PAN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:59903}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59903/devtoo..., se:cdpVersion: 93.0.4577.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c04fcf92bd43fb9f1f323de9ea4c885a
+	at com.inetBankingClone.testCase.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17)
+

@@ -1,0 +1,9 @@
+com\inetBankingClone\utilities\XLUtils.class
+com\inetBankingClone\pageObjects\AddCustomerPage.class
+com\inetBankingClone\testCase\Listeners.class
+com\inetBankingClone\utilities\ReadConfig.class
+com\inetBankingClone\testCase\TC_LoginTest_001.class
+com\inetBankingClone\testCase\BaseClass.class
+com\inetBankingClone\pageObjects\LoginPage.class
+com\inetBankingClone\testCase\TC_LoginDDTClone_002.class
+com\inetBankingClone\utilities\ExtentReporterNG.class

@@ -1,0 +1,6 @@
+12:10:54.314 [main] INFO  com.inetBankingClone.testCase.BaseClass - user name provided
+12:10:54.428 [main] INFO  com.inetBankingClone.testCase.BaseClass - password provided
+12:11:00.528 [main] INFO  com.inetBankingClone.testCase.BaseClass - Login passed
+12:11:07.107 [main] INFO  com.inetBankingClone.testCase.BaseClass - user name provided
+12:11:07.243 [main] INFO  com.inetBankingClone.testCase.BaseClass - password provided
+12:11:13.847 [main] INFO  com.inetBankingClone.testCase.BaseClass - user name provided
